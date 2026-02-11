@@ -1,1 +1,30 @@
-/* Add CSS Styling */
+
+
+.number1,
+.number3,
+.number5 {
+ background-color: rgb(240, 128, 128);
+ font-family: Verdana, sans-serif;
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+
+
+#number4 {
+    background-color: #20b2aa;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+
+
+
+
